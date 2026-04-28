@@ -24,6 +24,7 @@ I'm a software engineering student focused on building systems that combine **te
 
 * 🐍 Python
 * 🌐 HTML / CSS / JavaScript
+* 🤖 C#
 
 ### ⚙️ Tools & Technologies
 
@@ -41,7 +42,6 @@ Right now I'm diving deep into:
 * ☁️ Cloud Infrastructure
 * 🔁 CI/CD & DevOps practices
 * 🏗️ Scalable system design
-* 🌐 Building meaningful applications
 
 ---
 
@@ -57,12 +57,6 @@ Right now I'm diving deep into:
 * 🚀 Become a Cloud/DevOps Engineer
 * 🧠 Build impactful engineering solutions
 * 🌎 Work on projects that combine **tech + real-world impact**
-
----
-
-## 📫 Connect with Me
-
-* 📧 Email: *mauriciocastrojb@gmail.com*
 
 ---
 
