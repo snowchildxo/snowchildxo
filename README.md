@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hey, I'm Mau
 
-<!--
-**snowchildxo/snowchildxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
+🤖 Robotics Mentor 
+🌎 Based in Mexico
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a software engineering student focused on building systems that combine **technology, impact, and real-world applications**.
+
+* 🧠 Currently learning: **Cloud Computing ☁️ & DevOps ⚙️**
+* 📚 Currently working towards: **AWS Certification ☁️**
+* 🤖 Background in **FIRST Robotics Competition (FRC)** as a mentor
+* 🏆 Recognized as a **Woodie Flowers Nominee** at 2025
+* 💡 Interested in the intersection of **Software + Engineering + Applied Sciences**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+* 🐍 Python
+* 🌐 HTML / CSS / JavaScript
+
+### ⚙️ Tools & Technologies
+
+* ☁️ AWS (in progress)
+* 🐧 Linux
+* 🔧 Git & GitHub
+* 🎨 Front-End Development
+
+---
+
+## 📈 Current Focus
+
+Right now I'm diving deep into:
+
+* ☁️ Cloud Infrastructure
+* 🔁 CI/CD & DevOps practices
+* 🏗️ Scalable system design
+* 🌐 Building meaningful applications
+
+---
+
+## 🧩 Projects
+
+> 🚧 Currently working on refining and publishing my main projects.
+> Stay tuned — I'm building things that actually solve problems (a.k.a Meridian 👀)
+
+---
+
+## 🎯 Goals
+
+* 🚀 Become a Cloud/DevOps Engineer
+* 🧠 Build impactful engineering solutions
+* 🌎 Work on projects that combine **tech + real-world impact**
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: *mauriciocastrojb@gmail.com*
+
+---
+
+⭐ *"Building with purpose, not just code."*
+
