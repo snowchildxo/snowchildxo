@@ -58,7 +58,4 @@ Right now I'm diving deep into:
 * 🧠 Build impactful engineering solutions
 * 🌎 Work on projects that combine **tech + real-world impact**
 
----
-
-⭐ *"Building with purpose, not just code."*
 
